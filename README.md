@@ -1,6 +1,6 @@
 # Data-Analysis-Using-Power-BI
 The Object of this project : Analyze E-Commerce sales data and created interactive dashboard using PowerBI.    In this project I have analyze an online store data in which I have learnt the use of power BI and creat a interactive dashboard.   
-#Learning:
+# Learning:
 1. Created interactive dashboard to track and analyse online sales data.
 
 2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
